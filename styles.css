@@ -1,0 +1,15 @@
+.column-layout{
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: dodgerblue;
+}
+.main-column{
+
+}
+.next-column{
+
+}
+.last-column{
+
+}
+@media screen and (min-568px) {}
